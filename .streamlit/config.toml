@@ -1,0 +1,9 @@
+[theme]
+base = "light"
+
+[server]
+maxUploadSize = 5
+enableStaticServing = false
+
+[client]
+showErrorDetails = false
